@@ -1,0 +1,6 @@
+{
+  "name": "Inclusive AI Learning Assistant – Sri Lanka",
+  "description": "An inclusive educational support platform for Sri Lankan schools providing trilingual (English, Sinhala, Tamil) simplified multi-modal lesson adaptations, step-by-step learning, TTS, and practice quizzes.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
